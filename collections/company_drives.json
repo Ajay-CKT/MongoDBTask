@@ -1,0 +1,31 @@
+[
+    {
+        "company_name": "Google",
+        "date": "2024-12-15",
+        "eligible_batches": [
+            "2023",
+            "2024"
+        ]
+    },
+    {
+        "company_name": "Amazon",
+        "date": "2024-12-20",
+        "eligible_batches": [
+            "2024"
+        ]
+    },
+    {
+        "company_name": "Amazon",
+        "date": "2010-10-01",
+        "eligible_batches": [
+            "2010"
+        ]
+    },
+    {
+        "company_name": "Amazon",
+        "date": "2010-10-15",
+        "eligible_batches": [
+            "2010"
+        ]
+    }
+]

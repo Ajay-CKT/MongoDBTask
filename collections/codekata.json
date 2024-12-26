@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": "1",
+        "problems_solved": 120
+    },
+    {
+        "user_id": "2",
+        "problems_solved": 90
+    },
+    {
+        "user_id": "3",
+        "problems_solved": 40
+    },
+    {
+        "user_id": "4",
+        "problems_solved": 94
+    },
+    {
+        "user_id": "5",
+        "problems_solved": 63
+    }
+]

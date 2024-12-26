@@ -1,0 +1,6 @@
+[
+  { "task": "Build a REST API", "user_id": "1", "status": "Completed" },
+  { "task": "Setup MongoDB Compass", "user_id": "2", "status": "Pending" },
+  { "task": "Setup MySQL", "user_id": "3", "status": "Completed" },
+  { "task": "Setup Node.js", "user_id": "4", "status": "Pending" }
+]
